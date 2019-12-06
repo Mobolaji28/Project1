@@ -24,8 +24,8 @@ called TechnicalSupportEnginnerChallengeTest".
 ### Unified Modeling Language (UML) Class Box of the proposed project.
 
  
--title: String
--uri: String
+- title: String
+- uri: String
 - author: String
 - points: int 
 - comments: int 
