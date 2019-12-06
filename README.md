@@ -12,8 +12,8 @@ Java was used to generate output in this project .
 Eclipse IDE for Java Developers 
 The package includes : Eclipse java Development Tools , Maven Intergration for Eclipse, 
 
-Operation system : Windows 8.1 
-Computer Processor 64bit 
+- Operation system : Windows 8.1 
+- Computer Processor 64bit 
 
 
 
